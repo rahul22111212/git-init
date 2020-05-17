@@ -1,2 +1,2 @@
-# git-init
+# opencv
 opencv_object_detection
